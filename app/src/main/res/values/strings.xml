@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">parcialPDM</string>
+    <string name="tv_homeTeam">Home Team</string>
+    <string name="action_3_points">+3 POINTS</string>
+    <string name="action_2_points">+2 POINTS</string>
+    <string name="action_free_throw">FREE THROW</string>
+    <string name="tv_awayTeam">Away Team</string>
+    <string name="action_reset">reset</string>
+    <string name="btn_save">save</string>
+</resources>
